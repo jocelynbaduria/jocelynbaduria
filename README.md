@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**jocelynbaduria/jocelynbaduria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+** ✨ ReadMe ✨ **
 
 - 🔭 I’m currently working on projects Noisy Labels Image Classification
 - 🌱 I’m currently learning Reinforcement Learning, SOTA(State Of the Art) different algorithms, latest technologies application in Data Science.
@@ -12,5 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about about succulent gardening, wine and coffee.
 - 📫 How to reach me: I am reachable through my linkedIn [Jocelyn Baduria](https://www.linkedin.com/in/jocelyn-b-87b88543/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like to travel and I have been in 32 states in US :smile:
--->.           
+- ⚡ Fun fact: I like to travel and I have been in 32 states in US :smile:       
