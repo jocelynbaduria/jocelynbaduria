@@ -9,6 +9,6 @@
 - 🤔 I’m looking forward to learn other DL projects about Computer Vision, Emotional Intelligence applied to AI.
 - 💬 Ask me about about succulent gardening, wine and coffee.
 - 📫 How to reach me: I am reachable through my linkedIn [Jocelyn Baduria](https://www.linkedin.com/in/jocelyn-b-87b88543/)
-- 📫 I have written some article about Deep Reiforcement Learning: A survey paper in my [Medium](https://jocelyn-baduria.medium.com/). You can check it out.
+- 🧐 I have written some article about Deep Reiforcement Learning: A survey paper in my [Medium](https://jocelyn-baduria.medium.com/). You can check it out.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like to travel and I have been in 32 states in US :smile:       
