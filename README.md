@@ -3,7 +3,7 @@
 
 ✨ ReadMe ✨
 
-- 🔭 Software Engineering Data Science Project Summary
+- 🔭 Software Engineering Data Science Teams Project Summary
 - Master Graduate Project – [Automatic Data Cleaner with Label Correction](https://github.com/anirudhganguly44/team-tinker)
 - Special Topics – [Emotion Voice Recognition](https://github.com/jocelynbaduria/Emotion-Voice-Recognition-Special-Topics-Project)
 - Reinforcement Learning – [Foreign Currency Trading](https://github.com/jocelynbaduria/Forex-Currency-Trading)
