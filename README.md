@@ -23,4 +23,4 @@
 - 📫 How to reach me: I am reachable through my linkedIn [Jocelyn Baduria](https://www.linkedin.com/in/jocelyn-b-87b88543/)
 - 🧐 I have written some article about Deep Reinforcement Learning: A survey paper and Emotion Voice Recognition in my [Medium](https://jocelyn-baduria.medium.com/). Please check it out.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like walking or hiking and doing bombay jam and yoga :smile:       
+- ⚡ Fun fact: I like walking/hiking and doing bombay jam dancing or yoga :smile:       
