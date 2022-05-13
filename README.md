@@ -13,7 +13,7 @@
 - Data Mining Project – [Forecasting a NYC Bike Rentals and Accidents](https://github.com/CMPE-255-First-Responder-ASP77/Forecasting-NYC-Bike-Rentals-and-Accidents/blob/master/CitiBike_Linear_Regression_analysis.ipynb).
 - Big Data Mining Project – [Intelli-Gee Smart Farming Technique Using IoT Device](https://github.com/bmwv12lmr/Project-Intelli-Gee).
 - Enterprise SW Project – [MicroCovid Platform Tracker](https://github.com/J2S2-Enterprise-Project-Group/micro-covid-counter).
-- Capstone Project – [Scheduler Web Clinic Based Platform](https://baduriabiokinetics.com/)
+
 
 ✨ Some Personal details about me ✨
 - 🌱 I’m looking forward to learn latest SOTA(State Of the Art) different algorithms, and new edge technologies application in Data Science.
