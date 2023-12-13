@@ -16,9 +16,9 @@
 
 
 ✨ Some Personal details about me ✨
-- 🌱 I’m looking forward to learn latest SOTA(State Of the Art) different algorithms, and new edge technologies application in Data Science.
+- 🌱 I’m looking forward to apply and learn latest SOTA(State Of the Art) different algorithms, and new edge technologies application in Data Science.
 - 👯 I’m looking to collaborate on projects that can enhance my abilities in ML and DL.
-- 🤔 I’m looking forward to learn other DL projects about Computer Vision, Emotional Intelligence applied to AI.
+- 🤔 I’m looking forward to apply and learn other ML/DL projects about NLP, Computer Vision, Emotional Intelligence applied to Crime prevention, Security, Health Care and Environmental preservation.
 - 💬 Ask me about about succulent gardening, wine and coffee.
 - 📫 How to reach me: I am reachable through my linkedIn [Jocelyn Baduria](https://www.linkedin.com/in/jocelyn-b-87b88543/)
 - 🧐 I have written some article about Deep Reinforcement Learning: A survey paper and Emotion Voice Recognition in my [Medium](https://jocelyn-baduria.medium.com/). Please check it out.
